@@ -5,3 +5,8 @@
 	width: 1000px;
 	height: 570px;
 }
+@media screen and (max-width: 1024px) {
+	.lead__img {
+	  height: 100%;
+	}
+  }
